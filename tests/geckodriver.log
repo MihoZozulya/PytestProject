@@ -1,0 +1,10 @@
+1622043599732	geckodriver	INFO	Listening on 127.0.0.1:35313
+1622043600742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK0BeT4"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.info: MINT: Loading search-config defaults.
+1622043602554	Marionette	INFO	Listening on port 37911
+1622043602676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/uk/catalogue/coders-at-work_207/, line 613: ReferenceError: oscar is not defined
+1622043609587	Marionette	INFO	Stopped listening on port 37911

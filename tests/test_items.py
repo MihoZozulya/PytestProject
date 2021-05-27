@@ -10,4 +10,4 @@ def test_should_see_btn_add_to_basket(browser):
     # print(type(fidb))
     time.sleep(5)
 
-    assert isinstance(fidb, webdriver.remote.webelement.WebElement) == True, 'Site does not contain an add to backet'
+    assert isinstance(fidb, webdriver.remote.webelement.WebElement), 'Site does not contain an add to backet'
